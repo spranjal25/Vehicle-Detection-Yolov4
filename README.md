@@ -66,4 +66,4 @@ This Repository walks you through building, training and running your own YOLOv4
 Upload all these files - `obj.data`, `obj.names`, `train.txt`, `yolov4_custom.cfg` in it.
 
 ### Next up - Follow the jupyter notebook!
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/spranjal25/Vehicle-Detection-Yolov4/blob/main/Yolov4_Vehicle_Detection.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/spranjal25/Vehicle-Detection-Yolov4/blob/main/Yolov4_Vehicle_Detection.ipynb)
