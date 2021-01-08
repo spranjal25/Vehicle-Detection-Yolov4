@@ -62,4 +62,7 @@ This Repository walks you through building, training and running your own YOLOv4
     - when using [Gaussian_yolo] layers, change `[filters=57]` filters=(classes + 9)x3 in the 3 `[convolutional]` before each `[Gaussian_yolo]` layer
     - save this *`yolov4_custom.cfg`*
 
+##### Create a folder in google drive - `'Yolov4'`
+Upload all these files - `obj.data`, `obj.names`, `train.txt`, `yolov4_custom.cfg` in it.
+
 ### Next up - Follow the jupyter notebook!
